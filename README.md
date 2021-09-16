@@ -1,4 +1,5 @@
-### Hi there 👋
+Computer Science Teacher
+Weber Innovation High School and Roy High School
 
 <!--
 **lohansen1/lohansen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
