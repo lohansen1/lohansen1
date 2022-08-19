@@ -1,6 +1,4 @@
-Computer Science Teacher
-
-Weber Innovation High School and Roy High School
+Computer Science Teacher at Roy High School
 
 <!--
 **lohansen1/lohansen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
